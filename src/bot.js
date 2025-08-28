@@ -49,5 +49,5 @@ bot.on("text", async (ctx) => {
 
 export function launchBot() {
     bot.launch();
-    console.log("🤖 Telegram Bot started...");
+    console.log("🤖 Telegram Bot started... ");
 }
