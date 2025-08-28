@@ -8,6 +8,6 @@ export const JIRA_API_TOKEN = process.env.JIRA_API_TOKEN;
 
 
 export const users = {
-  "mehrab@airtour.com": 111111111,
-  "ali@airtour.com": 222222222
+    "mehrab@componey.com": 111111111,
+    "ali@componey.com": 222222222
 }
